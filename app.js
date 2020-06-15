@@ -1,8 +1,8 @@
 let popupOptions = {
   container: '#popup',
   template: `<h1>hello word</h1>`,
-  closeName: 'დახურვა',
-  sendName: 'გაგზავნა',
+  closeName: 'send',
+  sendName: 'close',
   buttonsClass: 'popup_btns',
   closePopupClass: 'show_',
   sendButtonClass: 'send_req',
