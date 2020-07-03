@@ -5,14 +5,15 @@
 ## Usage
 
 ```javascript
+Options for Popup Modal
 let popupOptions = {
-  container: '#popup',
-  template: `<h1>hello word</h1>`,
-  closeName: 'send',
-  sendName: 'close',
-  buttonsClass: 'popup_btns',
-  closePopupClass: 'show_',
-  sendButtonClass: 'send_req',
+  container: '#popup', // popup container
+  template: `<h1>hello word</h1>`, // popup body template
+  closeName: 'close', // close popup button name
+  sendName: 'send', // send popup button name
+  buttonsClass: 'popup_btns', // popup buttons class name
+  closePopupClass: 'show_', // show/hide class for popup
+  sendButtonClass: 'send_req', // send button class
 };
 
 let pop = new Popup(popupOptions);
