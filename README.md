@@ -1,6 +1,7 @@
 # popupModal
 
 ==============
+close popup with ESC key
 
 ## Usage
 
