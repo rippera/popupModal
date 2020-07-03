@@ -27,11 +27,10 @@ pop.initPopup();
 # Get Pop Click Callback
 
 ```javascript
+//set show Class to popup and wrtie our code here
 pop.sendButtonCallBack = function () {
-  set show Class to popup and wrtie our code here
-  pop.container.classList.remove('show\_');
+  pop.container.classList.remove('show_');
 };
-
 ```
 
 Template Html:
