@@ -41,3 +41,12 @@ Template Html:
 <button id="openPop2">open2</button>
 <div id="popup" class="popup"></div>
 ```
+
+## Contributing
+
+Please send me a pull request so that this can be improved.
+Extra
+
+---
+
+DEVELOPED By rippera.san
